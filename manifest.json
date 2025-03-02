@@ -1,0 +1,16 @@
+{
+    "name": "PollenTal App",
+    "short_name": "PollenTal",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#e2f1e6",
+    "theme_color": "#e2f1e6",
+    "description": "En app der viser pollental i dit område.",
+    "icons": [
+        {
+            "src": "assets/images/pollen.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
